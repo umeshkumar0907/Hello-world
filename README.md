@@ -1,2 +1,2 @@
 # Hello-world
-introduction
+Hi. I have successfully entered github.
